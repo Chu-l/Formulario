@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.container { 
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.data-box {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #000;
+    width: 300px;
+    display: none;
+}
